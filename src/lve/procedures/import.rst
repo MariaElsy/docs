@@ -1,6 +1,6 @@
-.. |Menú de ADempiere 1| image:: resources/menu1.png 
-.. |Orden de Compra sin Completar| image:: resources/orden1.png 
-.. |Menú de ADempiere 2| image:: resources/menu2.png 
+.. |Menú de ADempiere 1| image:: resources/menu1.png
+.. |Orden de Compra sin Completar| image:: resources/orden1.png
+.. |Menú de ADempiere 2| image:: resources/menu2.png
 .. |Icono Registro Nuevo| image:: resources/nuevo1.png
 .. |Campo Nombre| image:: resources/nombre1.png
 .. |Menú de ADempiere 3| image:: resources/menu3.png
@@ -47,7 +47,7 @@ El presente material elaborado por `ERPyA`_, pretende ofrecerle una explicación
 
 
 .. _paso/crear-orden-importación:
- 
+
 **Crear Orden de Compra de Importación**
 ****************************************
 
@@ -63,7 +63,7 @@ El presente material elaborado por `ERPyA`_, pretende ofrecerle una explicación
 
     Imagen 2: Orden de Compra Importación sin Completar
 
-.. note:: 
+.. note::
 
     El documento debe quedar en estado borrador.
 
@@ -72,7 +72,7 @@ El presente material elaborado por `ERPyA`_, pretende ofrecerle una explicación
 
 **Crear Tipo de Conversión**
 ****************************
-
+Solo pruebas
 #. Ubique y seleccione en el menú de ADempiere, la carpeta "**Análisis de Desempeño**", luego seleccione la carpeta "**Reglas Contables**", por último seleccione la ventana "**Tipo de Conversión**".
 
     |Menú de ADempiere 2|
@@ -91,7 +91,7 @@ El presente material elaborado por `ERPyA`_, pretende ofrecerle una explicación
 
         Imagen 5. Campo Nombre
 
-.. note:: 
+.. note::
 
     Recuerde guardar los cambios realizados seleccionando el icono "**Guardar Cambios**", ubicado en la barra de herramientas de ADempiere.
 
@@ -149,7 +149,7 @@ La tasa de conversión se crea unicamente cuando se conoce el monto, el mismo se
 
             Imagen 12. Campo Válido Desde
 
-        #. Seleccione en el campo "**Válido Hasta**", la fecha hasta la cual tiene validez la tasa de cambio que esta registrando. 
+        #. Seleccione en el campo "**Válido Hasta**", la fecha hasta la cual tiene validez la tasa de cambio que esta registrando.
 
             |Campo Válido Hasta|
 
@@ -161,7 +161,7 @@ La tasa de conversión se crea unicamente cuando se conoce el monto, el mismo se
 
             Imagen 14. Campo Factor de Base a Destino
 
-.. note:: 
+.. note::
 
     Recuerde guardar los cambios realizados seleccionando el icono "**Guardar Cambios**", ubicado en la barra de herramientas de ADempiere.
 
@@ -261,7 +261,7 @@ La tasa de conversión se crea unicamente cuando se conoce el monto, el mismo se
         .. note::
 
             Recuerde guardar los cambios realizados seleccionando el icono "**Guardar Cambios**", ubicado en la barra de herramientas de ADempiere.
-    
+
     #. Seleccione la opción "**Completar**" ubicada en la parte inferior del documento.
 
         |Opción Completar 2|
@@ -289,7 +289,7 @@ La tasa de conversión se crea unicamente cuando se conoce el monto, el mismo se
 
         |Icono Registro Nuevo 3|
 
-        Imagen 30. Icono Registro Nuevo 
+        Imagen 30. Icono Registro Nuevo
 
     #. Seleccione en el campo "**Organización**", la organización para la cual esta realizando el documento "**Cierre de Caja**".
 
@@ -331,7 +331,7 @@ La tasa de conversión se crea unicamente cuando se conoce el monto, el mismo se
 
             |Seleccionar Pagos 1|
 
-            Imagen 37. Seleccionar Pagos 
+            Imagen 37. Seleccionar Pagos
 
             .. note::
 
